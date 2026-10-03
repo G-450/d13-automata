@@ -1,6 +1,6 @@
-# D13 Automata
+# FLA Course Project
 
-Java implementations of fundamental automata theory concepts for the Formal Languages and Automata (FLA) course project.
+Java implementations of fundamental automata theory concepts, done as part of the course project for **22AIE302 — Formal Language and Automata**.
 
 ## Programs
 
